@@ -7,3 +7,6 @@ line6
 abc
 bcd
 def
+ghj
+jhg
+rfe
